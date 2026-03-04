@@ -1,0 +1,114 @@
+{
+    "common": {
+        "nav": {
+            "home": "Home",
+            "galerie": "Gallery",
+            "destination": "Destination",
+            "appartement": "The Apartment",
+            "prestations": "Amenities",
+            "artDeVivre": "Lifestyle",
+            "services": "Our Services",
+            "fiscalite": "Taxation",
+            "contact": "Contact"
+        },
+        "footer": {
+            "copyright": "All rights reserved. Éclat de Lune - Valmorel."
+        },
+        "localeSwitcher": {
+            "label": "Change language",
+            "en": "English",
+            "fr": "French"
+        }
+    },
+    "hero": {
+        "title": "Éclat de Lune",
+        "subtitle": "Valmorel la belle - The ultimate family ski resort."
+    },
+    "intro": {
+        "title": "A charming village opening onto the Grand Domaine",
+        "text": "Nestled at the foot of the imposing Cheval Noir mountain, Valmorel captivates with its unique charm, a blend of authenticity and modernity. A truly integrated, human-scaled resort, it is built around a fully pedestrianized main street and offers a multitude of services year-round."
+    },
+    "sections": {
+        "galerie": {
+            "title": "The Gallery",
+            "viewMore": "View all photos",
+            "pageTitle": "Full Gallery",
+            "back": "Back to Home"
+        },
+        "destination": {
+            "title": "The Grand Domaine",
+            "description": "The Grand Domaine de Valmorel winds its way from 2,400 to 1,350 meters in altitude, through splendid forests, gentle alpine slopes, and dizzying peaks. With 165 km of trails, 4 freeride zones, and numerous beginner slopes, the area is perfect for the entire family."
+        },
+        "appartement": {
+            "title": "Cosy Living Spaces",
+            "type1": {
+                "title": "Cosy Atmosphere",
+                "description": "Nothing compares to the warmth of a crackling fireplace, where faces glow with emotion and laughter fills the air."
+            },
+            "type2": {
+                "title": "Comfort & Design",
+                "description": "Masterful architecture that opens up to the sumptuous panorama of the surrounding peaks."
+            }
+        },
+        "prestations": {
+            "title": "The Sweetness of Life",
+            "item1": {
+                "title": "High-End Amenities",
+                "desc": "Modern infrastructures perfectly adapted to comfort requirements."
+            },
+            "item2": {
+                "title": "Ideal Location",
+                "desc": "At the gateway to the Tarentaise, just two hours from Lyon and one hour from Chambéry."
+            },
+            "item3": {
+                "title": "Masterful Architecture",
+                "desc": "A village-resort with perfectly integrated architecture."
+            }
+        },
+        "artDeVivre": {
+            "title": "Incredible Variety",
+            "description": "Already voted the best family resort in the world, Valmorel has also been awarded the national Famille Plus label. Acclaimed for the majesty of its landscapes, it offers an astonishing array of activities throughout the year."
+        },
+        "services": {
+            "title": "Services & Wellness",
+            "item1": {
+                "title": "Pool & Sauna"
+            },
+            "item2": {
+                "title": "Hammam & Wellness Area"
+            },
+            "item3": {
+                "title": "Ski shop & Heated lockers"
+            },
+            "item4": {
+                "title": "Connected gym & À la carte concierge"
+            }
+        },
+        "fiscalite": {
+            "title": "Investment",
+            "description": "An ideal promotion for investment. The data, photographs, or visuals contained in this document are provided for information purposes.",
+            "cta": "Learn more about A.M.O"
+        },
+        "contact": {
+            "subtitle": "Contact & Launch",
+            "title": "The mv-residences Valmorel Team",
+            "description": "Our team is at your disposal to accompany you in your investment project in Valmorel.",
+            "address": "MV Résidences, Grenoble",
+            "phone": "+33 (0)4 76 24 80 60",
+            "email": "contact@mv-residences.com",
+            "re2020": "RE 2020",
+            "delivery": "12/2028",
+            "deliveryLabel": "Expected Delivery",
+            "interlocuteurs": "Your dedicated contacts",
+            "contact1": {
+                "name": "Alexandre Messina",
+                "role": "Agency Director"
+            },
+            "contact2": {
+                "name": "Jordan Burdet",
+                "role": "Account Manager"
+            },
+            "videoCta": "Video Link"
+        }
+    }
+}

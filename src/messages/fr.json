@@ -1,0 +1,114 @@
+{
+    "common": {
+        "nav": {
+            "home": "Accueil",
+            "galerie": "Galerie",
+            "destination": "Destination",
+            "appartement": "L'Appartement",
+            "prestations": "Prestations",
+            "artDeVivre": "Art de Vivre",
+            "services": "Nos Services",
+            "fiscalite": "Fiscalité",
+            "contact": "Contact"
+        },
+        "footer": {
+            "copyright": "Tous droits réservés. Éclat de Lune - Valmorel."
+        },
+        "localeSwitcher": {
+            "label": "Changer la langue",
+            "en": "Anglais",
+            "fr": "Français"
+        }
+    },
+    "hero": {
+        "title": "L'Éclat de Lune",
+        "subtitle": "Valmorel la belle - La station de ski familiale par excellence."
+    },
+    "intro": {
+        "title": "Un village de charme qui ouvre sur le Grand Domaine",
+        "text": "Nichée au pied de l’imposante montagne du Cheval Noir, Valmorel séduit par son charme unique, mélange d’authenticité et de modernité. Véritable station intégrée à taille humaine, elle s’articule autour d’une rue principale entièrement piétonne et offre une multitude de prestations tout au long de l’année."
+    },
+    "sections": {
+        "galerie": {
+            "title": "La Galerie",
+            "viewMore": "Voir toute la galerie",
+            "pageTitle": "Galerie Complète",
+            "back": "Retour à l'accueil"
+        },
+        "destination": {
+            "title": "Le Grand Domaine",
+            "description": "Le Grand Domaine de Valmorel serpente de 2 400 à 1 350 mètres d’altitude, entre de splendides forêts, les pentes douces des alpages et celles vertigineuses des sommets. Avec 165 km de pistes, 4 zones de freeride et de nombreuses pistes pour débutants, le domaine est idéal pour toute la famille."
+        },
+        "appartement": {
+            "title": "Les Espaces de Vie Cosy",
+            "type1": {
+                "title": "Atmosphère Cosy",
+                "description": "Rien n’égale la chaleur d’un feu de cheminée qui crépite, où les visages rayonnent d’émotion et les rires se font entendre."
+            },
+            "type2": {
+                "title": "Confort & Design",
+                "description": "L'architecture maîtrisée s’ouvre sur le panorama somptueux des sommets environnants."
+            }
+        },
+        "prestations": {
+            "title": "La Douceur de Vivre",
+            "item1": {
+                "title": "Prestations Haut de Gamme",
+                "desc": "Des infrastructures modernes parfaitement adaptées aux exigences de confort."
+            },
+            "item2": {
+                "title": "Emplacement Idéal",
+                "desc": "Aux portes de la Tarentaise, à seulement deux heures de Lyon et une heure de Chambéry."
+            },
+            "item3": {
+                "title": "Architecture Masterisée",
+                "desc": "Une station-village à l'architecture parfaitement intégrée."
+            }
+        },
+        "artDeVivre": {
+            "title": "L'Incroyable Variété",
+            "description": "Déjà élue meilleure station familiale au monde, Valmorel a également reçu le label national de référence Famille Plus. Plébiscitée pour la majesté de ses paysages, elle offre tout au long de l’année une étonnante palette d’activités."
+        },
+        "services": {
+            "title": "Services & Bien-être",
+            "item1": {
+                "title": "Piscine & Sauna"
+            },
+            "item2": {
+                "title": "Hammam & Espace bien-être"
+            },
+            "item3": {
+                "title": "Ski shop & Casiers chauffants"
+            },
+            "item4": {
+                "title": "Salle de sport connectée & Conciergerie à la carte"
+            }
+        },
+        "fiscalite": {
+            "title": "Investissement",
+            "description": "Une promotion idéale pour l'investissement. Les données, photographies ou visuels figurant dans ce document vous sont communiqués à titre d’informations.",
+            "cta": "En savoir plus sur l'A.M.O"
+        },
+        "contact": {
+            "subtitle": "Contact & Lancement",
+            "title": "L'Équipe mv-residences Valmorel",
+            "description": "Notre équipe est à votre disposition pour vous accompagner dans votre projet d'investissement à Valmorel.",
+            "address": "MV Résidences, Grenoble",
+            "phone": "+33 (0)4 76 24 80 60",
+            "email": "contact@mv-residences.com",
+            "re2020": "RE 2020",
+            "delivery": "12/2028",
+            "deliveryLabel": "Livraison Prévue",
+            "interlocuteurs": "Vos interlocuteurs privilégiés",
+            "contact1": {
+                "name": "Alexandre Messina",
+                "role": "Directeur d'agence"
+            },
+            "contact2": {
+                "name": "Jordan Burdet",
+                "role": "Chargé d'affaires"
+            },
+            "videoCta": "Lien Vidéo"
+        }
+    }
+}
