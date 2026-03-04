@@ -85,9 +85,17 @@
             }
         },
         "fiscalite": {
-            "title": "Investissement",
-            "description": "Une promotion idéale pour l'investissement. Les données, photographies ou visuels figurant dans ce document vous sont communiqués à titre d’informations.",
-            "cta": "En savoir plus sur l'A.M.O"
+            "title": "Avantages Financiers",
+            "subtitle": "Récupération de TVA",
+            "description1": "À Valmorel, votre bien n’est pas un simple bien immobilier. C’est un lieu qui fait vivre la station, qui accueille des familles, qui crée des souvenirs et qui participe au dynamisme de la montagne. Parce qu’il contribue à cette énergie et à cette attractivité, l’État vous rembourse la TVA grâce au bail commercial variable.",
+            "description2": "Vous achetez hors taxes et vous bénéficiez d’un avantage réservé aux projets qui font réellement bouger la montagne.",
+            "benefit1": "Récupération de la TVA (20%) sur le prix d'acquisition.",
+            "benefit2": "Amortissement comptable du bien et du mobilier.",
+            "benefit3": "Génération de revenus locatifs défiscalisés.",
+            "rendementTitle": "Rendement",
+            "rendementDesc": "Un investissement pérenne dans une station premium.",
+            "accompagnementTitle": "Accompagnement",
+            "accompagnementDesc": "Notre équipe vous guide dans toutes les démarches administratives."
         },
         "contact": {
             "subtitle": "Contact & Lancement",

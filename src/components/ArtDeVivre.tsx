@@ -9,10 +9,10 @@ export default function ArtDeVivre() {
         <section className="py-24 bg-white" id="artdevivre">
             <div className="max-w-7xl mx-auto px-4">
                 <div className="flex flex-col md:flex-row-reverse items-center gap-16">
-                    <div className="md:w-1/2 relative w-full aspect-square rounded-sm overflow-hidden shadow-2xl">
+                    <div className="w-full md:w-1/2 relative h-64 md:h-96 rounded-lg overflow-hidden shadow-xl">
                         <Image
-                            src="/images/interior_1.png"
-                            alt="Art de vivre interior"
+                            src="/images/interior_1.webp"
+                            alt="Art de Vivre"
                             fill
                             className="object-cover"
                         />

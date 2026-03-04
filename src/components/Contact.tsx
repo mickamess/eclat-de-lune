@@ -103,6 +103,19 @@ export default function Contact() {
                     </div>
 
                 </div>
+
+                {/* Google Maps Embed */}
+                <div className="mt-20 w-full h-[450px] rounded-lg overflow-hidden shadow-xl border border-gray-100">
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m15!1m11!1m3!1d786.6572861010051!2d6.444134512059913!3d45.46009982703874!2m2!1f0!2f0!3m2!1i1024!2i768!4f13.1!2m1!1svalmorel%20mymountain!5e1!3m2!1sfr!2sfr!4v1772620216144!5m2!1sfr!2sfr"
+                        width="100%"
+                        height="100%"
+                        style={{ border: 0 }}
+                        allowFullScreen={true}
+                        loading="lazy"
+                        referrerPolicy="no-referrer-when-downgrade"
+                    />
+                </div>
             </div>
         </section>
     );

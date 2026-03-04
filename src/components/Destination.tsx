@@ -19,13 +19,15 @@ export default function Destination() {
                             {t('description', { defaultMessage: 'Details...' })}
                         </p>
                     </div>
-                    <div className="lg:w-1/2 relative w-full aspect-[4/3] rounded-sm overflow-hidden shadow-2xl">
-                        <Image
-                            src="/images/ski_map.png"
-                            alt="Map of the ski domain"
-                            fill
-                            className="object-cover"
-                        />
+                    <div className="w-full lg:w-1/2">
+                        <div className="relative h-[400px] md:h-[500px] rounded-lg overflow-hidden shadow-xl border border-gray-100">
+                            <Image
+                                src="/images/ski_map.webp"
+                                alt="Valmorel Ski Map"
+                                fill
+                                className="object-cover"
+                            />
+                        </div>
                     </div>
                 </div>
             </div>

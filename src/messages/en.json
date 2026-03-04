@@ -85,9 +85,17 @@
             }
         },
         "fiscalite": {
-            "title": "Investment",
-            "description": "An ideal promotion for investment. The data, photographs, or visuals contained in this document are provided for information purposes.",
-            "cta": "Learn more about A.M.O"
+            "title": "Financial Benefits",
+            "subtitle": "VAT Recovery",
+            "description1": "In Valmorel, your property is not just real estate. It's a place that brings the resort to life, welcomes families, creates memories, and contributes to the mountain's dynamism. Because it contributes to this energy and appeal, the State reimburses your VAT through the variable commercial lease.",
+            "description2": "You buy tax-free and benefit from an advantage reserved for projects that truly keep the mountain moving.",
+            "benefit1": "Recovery of VAT (20%) on the purchase price.",
+            "benefit2": "Accounting depreciation of the property and furniture.",
+            "benefit3": "Generation of tax-free rental income.",
+            "rendementTitle": "Yield",
+            "rendementDesc": "A lasting investment in a premium resort.",
+            "accompagnementTitle": "Support",
+            "accompagnementDesc": "Our team guides you through all administrative procedures."
         },
         "contact": {
             "subtitle": "Contact & Launch",
